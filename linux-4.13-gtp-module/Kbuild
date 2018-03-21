@@ -1,0 +1,3 @@
+src=.
+obj-m+=gtp.o
+gtp-y +=
